@@ -77,7 +77,7 @@ h1 {
 }
 
 .botao {
-  width: 105px;
+  width: auto;
   overflow: hidden;
   display: inline-block;
   padding: 14px 24px;
